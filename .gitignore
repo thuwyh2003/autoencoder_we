@@ -11,3 +11,9 @@ saved_models
 results/
 logs/
 R_squares/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.csv
+*.txt
